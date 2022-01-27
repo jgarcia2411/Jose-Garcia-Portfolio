@@ -4,7 +4,7 @@ About me:
 - Most of my projects are energy related since I am familiar with the field, but I am also exploring new fields of applications
 - I am a python enthusiast, and currently working on speech to sign language translation as my final Capstone Project
 - Learn more about me in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406)
-
+- [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=plastic)](https://github.com/jgarcia2411)
 
 ## Predicting Cuisine type and calories from a given recipe
 - This project is one of the first machine learning projects I have worked on. In the EMSE 6574-Programming for Analytics class, we developed this ML project to predict the cuisine type and the number of calories by entering any recipe. 
