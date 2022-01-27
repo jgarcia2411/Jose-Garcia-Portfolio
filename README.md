@@ -21,6 +21,7 @@ About me:
 - Matching electricity consumption with the right supply level is crucial to achieve energy efficiency in residential buildings, and avoid grid overloading and energy waste. This work focuses on achieving accurate machine learning models to forecast energy demand in a smart home. 
 To do so, a time-series ['Smart Home Dataset with weather Information'](https://www.kaggle.com/taranvee/smart-home-dataset-with-weather-information) data set from Kaggle was analyzed. 
 
+
 ![powervstime](/images/timestamp.png)
 
 
@@ -29,7 +30,7 @@ To do so, a time-series ['Smart Home Dataset with weather Information'](https://
 - In this project, I trained machine learning models to predict solar energy generation from weather parameters.
 - The implementation of this project has been done in Spark taking advantage of its capabilities to parrallel distribute data, manage models with MLflow libraries, and deploy models with streaming deployment. 
 - Results
-- Notebook
+- Notebook: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
 
 ![featureimportance](/images/featureimportance.png)
 
