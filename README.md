@@ -15,7 +15,7 @@ Welcome to my Portfolio of projects!
 - Coding notebooks can be found [**here**](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb) 
 - Github repo can be found [**here**]()
 
-[![streamlitapp](https://github.com/jgarcia2411/Jose-Garcia-Portfolio/blob/main/images/streamlitapp.png)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
+[![streamlitapp](/images/streamlitapp.png)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 
 
 ## Forecasting Energy Demand in a Smart Home with LSTM networks
