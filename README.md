@@ -7,14 +7,13 @@ Welcome to my Portfolio of projects!
 - I am a python enthusiast, and currently working on speech to sign language translation as my final Capstone Project
 - Learn more about me in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406)
 
-# Projects
 
 ## Predicting Cuisine type and calories from a given recipe
 - This project is one of the first machine learning projects I have worked on. In the EMSE 6574-Programming for Analytics class, we developed this ML project to predict the cuisine type and the number of calories by entering any recipe. 
-- To train the models, we used data from the Kaggle's competition [**What's Cooking](https://www.kaggle.com/c/whats-cooking/data)
+- To train the models, we used data from the Kaggle's competition [What's Cooking](https://www.kaggle.com/c/whats-cooking/data)
 - Finally we deployed our models in [**Streamlit**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
-- Coding notebooks can be found [**here](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb) 
-- Github repo can be found [**here]()
+- Coding notebooks can be found [**here**](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb) 
+- Github repo can be found [**here**]()
 
 [![streamlitapp](https://github.com/jgarcia2411/Jose-Garcia-Portfolio/blob/main/images/streamlitapp.png)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 
