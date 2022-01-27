@@ -1,6 +1,4 @@
-# Jose Garcia Portfolio
-
-Welcome to my Portfolio of projects! 
+About me:
 - I am in my last semester of the master's program in Data Analytics at George Washington Universtiy.
 - This portfolio showcase projects where I have gathered data, cleaned, visualized and modelled.
 - Most of my projects are energy related since I am familiar with the field, but I am also exploring new fields of applications
@@ -27,8 +25,13 @@ To do so, a time-series ['Smart Home Dataset with weather Information'](https://
 
 
 ## Predicting Solar Energy production from weather parameters
-![featureimportance](https://github.com/jgarcia2411/Jose-Garcia-Portfolio/blob/main/images/featureimportance.png)
-- I have always been interested in clean energy and its intersection with data science and machine learning. Thus, in my first Data Analytics class I decided to train a  machine learning model to predict solar energy generation from weather data. Moreover, I learnt and used Spark to apply data analysis in large-scale distributed data processing architecture.
+- My interest in clean energy and its intersection with data science has driven me to work on this project.
+- In this project, I trained machine learning models to predict solar energy generation from weather parameters.
+- The implementation of this project has been done in Spark taking advantage of its capabilities to parrallel distribute data, manage models with MLflow libraries, and deploy models with streaming deployment. 
+- Results
+- Notebook
+
+![featureimportance](/images/featureimportance.png)
 
 ## Zomato Database
 
