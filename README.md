@@ -19,10 +19,12 @@ Welcome to my Portfolio of projects!
 
 
 ## Forecasting Energy Demand in a Smart Home with LSTM networks
-![powervstime](https://github.com/jgarcia2411/Jose-Garcia-Portfolio/blob/main/images/timestamp.png)
 - This is a group project in the EMSE 6575-Applied Machine Learning class at GWU. We implemented LSTM Neural Networks with Genetic Algorithm for parameters optimization. Our goal was to forecast energy demand of a smart-home.
 - Matching electricity consumption with the right supply level is crucial to achieve energy efficiency in residential buildings, and avoid grid overloading and energy waste. This work focuses on achieving accurate machine learning models to forecast energy demand in a smart home. 
 To do so, a time-series ['Smart Home Dataset with weather Information'](https://www.kaggle.com/taranvee/smart-home-dataset-with-weather-information) data set from Kaggle was analyzed. 
+
+![powervstime](/images/timestamp.png)
+
 
 ## Predicting Solar Energy production from weather parameters
 ![featureimportance](https://github.com/jgarcia2411/Jose-Garcia-Portfolio/blob/main/images/featureimportance.png)
