@@ -8,7 +8,7 @@ About me:
 
 ## Forecasting Energy Demand in a Smart Home with LSTM networks
 
-Forecasting electricity demand and consumption is critical for energy companies. It provides accurate tools for resource management, investments, power consumption and usage planning, scheduling, and network distribution analysis. Modern buildings are also benefitted from consumption forecasts, and more buildings are adopting new technologies to generate usage data. Thus, it is evident that accurate models are growing in demand over multiple modern residences. This class project focused on analyzing data from a residential building and developing machine learning models to forecast energy demand using historical consumption data, and weather recordings. Highlights of this project includes:
+Forecasting electricity demand and consumption is critical for energy companies. It provides accurate tools for resource management, investment portfolio, power consumption and usage planning, scheduling, and network distribution analysis. Modern buildings are also benefitted from consumption forecasts, and more buildings are adopting new technologies to generate usage data. Thus, it is evident that accurate models are growing in demand over multiple modern residences. This class project focused on analyzing data from a residential building and developing machine learning models to forecast energy demand using historical consumption data, and weather recordings. Highlights of this project includes:
 -	Long-short-term memory neural networks implementation
 -	Network architecture optimization with genetic algorithms
 -	### metrics performance to forecast xxx steps
@@ -18,20 +18,23 @@ Forecasting electricity demand and consumption is critical for energy companies.
 ![powervstime](/images/timestamp.png)
 
 ## Predicting Cuisine type and calories from a given recipe
-- This project is one of the first machine learning projects I have worked on. In the EMSE 6574-Programming for Analytics class, we developed this ML project to predict the cuisine type and the number of calories by entering any recipe. 
-- To train the models, we used data from the Kaggle's competition [What's Cooking](https://www.kaggle.com/c/whats-cooking/data)
-- Finally we deployed our models in [**Streamlit**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
-- Coding notebooks can be found [**here**](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb) 
-- Github repo can be found [**here**]()
+More people is getting interested to track the number of calories on their food, and to create awareness to what we eat each day. Counting calories can help people identify eating patterns that might affect our health. Thus, this tool was created to predict the number of calories and classify the cuisine type from a given recipe. In this group project, we used around 40k recipes to train machine learning models. Finally, the models are deployed in an interactive app hosted in [**Streamlit**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
+Project highlights:
+-	Natural Language Processing implementation to clean data 
+-	Support vector machine, classification model had best results
+-	Metrics
+-	You can find Github repository: [**here**]()
+-	You can iterate over jupyter notebook: [**here**](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
+-	You can use interactive streamlit app: [**here**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
 
 [![streamlitapp](/images/streamlitapp.png)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 
 ## Predicting Solar Energy production from weather parameters
-- My interest in clean energy and its intersection with data science has driven me to work on this project.
-- In this project, I trained machine learning models to predict solar energy generation from weather parameters.
-- The implementation of this project has been done in Spark taking advantage of its capabilities to parrallel distribute data, manage models with MLflow libraries, and deploy models with streaming deployment. 
-- Results
-- Notebook: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
+Solar energy is a renewable source promised to be a crucial part of the future energy grid. Since it is dependent on weather, companies are interested to understand the impact on energy production under different weather scenarios. Additionally, solar energy can’t be cost-efficiently stored, hence forecasting its capacity is increasingly valuable to electric power system operators. Therefore, this class project was developed to understand which weather parameters influence energy production in a solar farm, and how much energy is expected to produce given current weather. In this project, I merged and analyzed solar farm energy production and weather data. I trained machine learning models and predicted power supply given weather data. Project highlights:
+-	Machine learning implementation in parallel distributed system – Spark
+-	Model deployment using data streaming capabilities 
+-	Metrics performance
+-	Notebook of this project can be found: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
 
 ![featureimportance](/images/featureimportance.png)
 
