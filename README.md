@@ -11,7 +11,7 @@ About me:
 Forecasting electricity demand and consumption is critical for energy companies. It provides accurate tools for resource management, investment portfolio, power consumption and usage planning, scheduling, and network distribution analysis. Modern buildings are also benefitted from consumption forecasts, and more buildings are adopting new technologies to generate usage data. Thus, it is evident that accurate models are growing in demand over multiple modern residences. This class project focused on analyzing data from a residential building and developing machine learning models to forecast energy demand using historical consumption data, and weather recordings. Highlights of this project includes:
 -	Long-short-term memory neural networks implementation
 -	Network architecture optimization with genetic algorithms
--	### metrics performance to forecast xxx steps
+-	Metrics performance to forecast xxx steps
 -	You can find Github repository: [here]()
 -	You can iterate over the steps: [here]()
 
