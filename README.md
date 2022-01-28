@@ -15,7 +15,7 @@ Forecasting electricity demand and consumption is critical for energy companies.
 -	You can find Github repository: [here]()
 -	You can iterate over the steps: [here]()
 
-![powervstime](/images/timestamp.png)
+![powervstime](/images/demandusage.png)
 
 ## Predicting Cuisine type and calories from a given recipe
 More people is getting interested to track the number of calories on their food, and to create awareness to what we eat each day. Counting calories can help people identify eating patterns that might affect our health. Thus, this tool was created to predict the number of calories and classify the cuisine type from a given recipe. In this group project, we used around 40k recipes to train machine learning models. Finally, the models are deployed in an interactive app hosted in [**Streamlit**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
@@ -36,7 +36,7 @@ Solar energy is a renewable source promised to be a crucial part of the future e
 -	Metrics performance
 -	Notebook of this project can be found: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
 
-![featureimportance](/images/featureimportance.png)
+![featureimportance](/images/demandvisual.png)
 
 ## Zomato Database
 
