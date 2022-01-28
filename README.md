@@ -13,9 +13,9 @@ Forecasting electricity demand and consumption is critical for energy companies.
 Highlights of this project includes:
 -	Long-short-term memory neural networks implementation
 -	Network architecture optimization with genetic algorithms
--	Metrics performance to forecast xxx steps
+-	Metrics coming soon......re-training model.
 -	You can find Github repository: [here](https://github.com/jgarcia2411/Energy-Supply-Smart-Home.git)
--	You can iterate over the steps: [here]()
+-	You can iterate over the steps: [Medium post comming soon......]()
 
 ![powervstime](/images/demandusage.png)
 
@@ -25,7 +25,8 @@ More people is getting interested to track the number of calories on their food,
 Project highlights:
 -	Natural Language Processing implementation to clean data 
 -	Support vector machine, classification model had best results
--	Metrics
+-	Random Forst best prediction metric: RMSE = 196
+-	Support Vector Classifier best classification metrics: ACCURACY = 0.79 
 -	You can find Github repository: [**here**](https://github.com/jgarcia2411/emse-6574-final-project.git)
 -	You can iterate over jupyter notebook: [**here**](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
 -	You can use interactive streamlit app: [**here**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
@@ -37,8 +38,8 @@ Solar energy is a renewable source promised to be a crucial part of the future e
 
 Project highlights:
 -	Machine learning implementation in parallel distributed system – Spark
--	Model deployment using data streaming capabilities 
--	Metrics performance
+-	Model deployment with MLflow and Streamlit (coming soon....)
+-	Decision Tree best prediction metrics: RMSE = 3412, R-squared = 0.92
 -	Notebook of this project can be found: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
 
 ![featureimportance](/images/demandvisual.png)
