@@ -12,7 +12,7 @@ Forecasting electricity demand and consumption is critical for energy companies.
 -	Long-short-term memory neural networks implementation
 -	Network architecture optimization with genetic algorithms
 -	Metrics performance to forecast xxx steps
--	You can find Github repository: [here]()
+-	You can find Github repository: [here](https://github.com/jgarcia2411/Energy-Supply-Smart-Home.git)
 -	You can iterate over the steps: [here]()
 
 ![powervstime](/images/demandusage.png)
@@ -23,7 +23,7 @@ Project highlights:
 -	Natural Language Processing implementation to clean data 
 -	Support vector machine, classification model had best results
 -	Metrics
--	You can find Github repository: [**here**]()
+-	You can find Github repository: [**here**](https://github.com/jgarcia2411/emse-6574-final-project.git)
 -	You can iterate over jupyter notebook: [**here**](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
 -	You can use interactive streamlit app: [**here**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
 
@@ -39,6 +39,11 @@ Solar energy is a renewable source promised to be a crucial part of the future e
 ![featureimportance](/images/demandvisual.png)
 
 ## Zomato Database
+The goal of this class project is to restructure a flattened dataset, and load into a SQL database, demonstrate the convenience to have this dataset stored in a database, and provide an efficient and easier way for end-users to search for specific information. Zomato is a project launched in Delhi 12 years ago, and is present in 10000+ cities globally. Zomato is one of the 'largest food aggregators in the world' and their mission is to connect people to food. Project results:
+- Github repository: [**here**](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
+
+![zomato](/images/zomato.png)
+
 
 ## Sign Language Translation 
 
