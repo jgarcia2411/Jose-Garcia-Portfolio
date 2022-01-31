@@ -1,17 +1,16 @@
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=plastic)](https://github.com/jgarcia2411)
 
 Welcome to my portfolio of school projects..
 
 About me:
 
-I am in my last semester of the master's program in Data Analytics at George Washington Universtiy. This portfolio showcase my school projects in the different courses I have taken: Programming for Analytics, Applied Machine Learning, Data Analysis, and Database Management. I got involved analyzing mostly energy usage and consumption data sets since I have been interested in this field. 
+- I am in my last semester of the master's program in Data Analytics at George Washington Universtiy. This portfolio showcase my school projects in the different courses I have taken: Programming for Analytics, Applied Machine Learning, Data Analysis, and Database Management. I got involved analyzing mostly energy usage and consumption data sets since I have been interested in this field. 
 - Learn more about me in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406)
+- Go through my projects on my [Github](https://github.com/jgarcia2411)
+----
 
---
+# School Projects
 
-<p style="text-align: center;"># School Projects</p>
-
-## Forecasting Energy Demand in a Smart Home with LSTM networks
+## Forecasting Energy Demand in a residential building with LSTM neural networks and Genetic Algorithms
 
 Forecasting electricity demand and consumption is critical for energy companies. It provides accurate tools for resource management, investment portfolio, power consumption and usage planning, scheduling, and network distribution analysis. Modern buildings are also benefitted from consumption forecasts, and more buildings are adopting new technologies to generate usage data. Thus, it is evident that accurate models are growing in demand over multiple modern residences. This class project focused on analyzing data from a residential building and developing machine learning models to forecast energy demand using historical consumption data, and weather recordings. 
 
