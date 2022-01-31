@@ -1,10 +1,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=plastic)](https://github.com/jgarcia2411)
 
+Welcome to my portfolio of school projects..
+
 About me:
-- I am in my last semester of the master's program in Data Analytics at George Washington Universtiy. This portfolio showcase my school projects in the different courses I have taken: Programming for Analytics, Applied Machine Learning, Data Analysis, and Database Management. I got involved analyzing mostly energy usage and consumption data sets since I have been interested in this field. 
+
+I am in my last semester of the master's program in Data Analytics at George Washington Universtiy. This portfolio showcase my school projects in the different courses I have taken: Programming for Analytics, Applied Machine Learning, Data Analysis, and Database Management. I got involved analyzing mostly energy usage and consumption data sets since I have been interested in this field. 
 - Learn more about me in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406)
 
-# School Projects
+--
+
+<p style="text-align: center;"># School Projects</p>
 
 ## Forecasting Energy Demand in a Smart Home with LSTM networks
 
