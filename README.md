@@ -4,8 +4,9 @@ Welcome to my portfolio of school projects..
 About me:
 
 - I am in my last semester of the master's program in Data Analytics at George Washington Universtiy. This portfolio showcase my school projects in the different courses I have taken: Programming for Analytics, Applied Machine Learning, Data Analysis, and Database Management. I got involved analyzing mostly energy usage and consumption data sets since I have been interested in this field. 
-- Learn more about me in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406)
-- Go through my projects on my [Github](https://github.com/jgarcia2411)
+- You can learn more about me in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406)
+- You can go through the projects' code on my [Github repository](https://github.com/jgarcia2411)
+
 ----
 
 # School Projects
@@ -31,9 +32,9 @@ Project highlights:
 -	Support vector machine, classification model had best results
 -	Random Forst best prediction metric: RMSE = 196
 -	Support Vector Classifier best classification metrics: ACCURACY = 0.79 
--	You can find Github repository: [**here**](https://github.com/jgarcia2411/emse-6574-final-project.git)
--	You can iterate over jupyter notebook: [**here**](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
--	You can use interactive streamlit app: [**here**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
+-	You can find Github repository: [here](https://github.com/jgarcia2411/emse-6574-final-project.git)
+-	You can iterate over jupyter notebook: [here](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
+-	You can use interactive streamlit app: [here](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
 
 [![streamlitapp](/images/streamlitapp.png)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 
@@ -52,7 +53,7 @@ Project highlights:
 The goal of this class project is to restructure a flattened dataset, and load into a SQL database, demonstrate the convenience to have this dataset stored in a database, and provide an efficient and easier way for end-users to search for specific information. Zomato is a project launched in Delhi 12 years ago, and is present in 10000+ cities globally. Zomato is one of the 'largest food aggregators in the world' and their mission is to connect people to food. 
 
 Project results:
-- Github repository: [**here**](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
+- Github repository: [here](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
 
 ![zomato](/images/zomato.png)
 
