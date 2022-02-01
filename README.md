@@ -22,7 +22,7 @@ Highlights of this project includes:
 -	Network architecture optimization with genetic algorithms
 -	Metrics coming soon......re-training model.
 -	You can find Github repository: [here](https://github.com/jgarcia2411/Energy-Supply-Smart-Home.git)
--	You can iterate over the steps: [Medium post comming soon......]()
+-	You can iterate over the steps: [Medium post](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 
 ![powervstime](/images/demandusage.png)
 
