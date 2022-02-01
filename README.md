@@ -3,7 +3,7 @@ Welcome to my portfolio of school projects..
 
 About me:
 
-<img style="float: right;" src="/images/fotoperfil.jpg" alt="fotodeperfil2" width="200"/>
+<img style="float: right;" src="https://github.com/jgarcia2411/Jose-Garcia-Portfolio/blob/main/images/fotoperfil.jpg" alt="fotodeperfil2" width="200"/>
 
 - I am in my last semester of the master's program in Data Analytics at George Washington Universtiy. This portfolio showcase my school projects in the different courses I have taken: Deep Learning, Machine Learning, Programming for Analytics, and Database Management. 
 - You can learn more about me in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406)
