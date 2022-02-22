@@ -36,18 +36,18 @@ Project highlights:
 
 [![streamlitapp](/images/streamlitapp.png)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 
-## Predicting Solar Energy production from weather parameters
+## [Predicting Solar Energy production from weather parameters](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
 Solar energy is a renewable source promised to be a crucial part of the future energy grid. Since it is dependent on weather, companies are interested to understand the impact on energy production under different weather scenarios. Additionally, solar energy can’t be cost-efficiently stored, hence forecasting its capacity is increasingly valuable to electric power system operators. Therefore, this class project was developed to understand which weather parameters influence energy production in a solar farm, and how much energy is expected to produce given current weather. In this project, I merged and analyzed solar farm energy production and weather data. I trained machine learning models and predicted power supply given weather data. 
 
 Project highlights:
 -	Machine learning implementation in Spark
 -	Model deployment with MLflow and Streamlit (coming soon....)
 -	Decision Tree best prediction metrics: RMSE = 3412, R-squared = 0.92
--	[![Jupyter Notebook](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
+-	[Jupyter Notebook](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
 
 ![featureimportance](/images/demandvisual.png)
 
-## Zomato Database
+## [Zomato Database]((https://github.com/jgarcia2411/Zomato_SQL_Database.git)
 The goal of this class project is to restructure a flattened dataset, and load into a SQL database, demonstrate the convenience to have this dataset stored in a database, and provide an efficient and easier way for end-users to search for specific information. Zomato is a project launched in Delhi 12 years ago, and is present in 10000+ cities globally. Zomato is one of the 'largest food aggregators in the world' and their mission is to connect people to food. 
 
 Project results:
@@ -56,7 +56,7 @@ Project results:
 ![zomato](/images/zomato.png)
 
 
-## Sign Language Translation 
+## [Sign Language Translation](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
 
 This project is my final Capstone Project to complete my master's program at George Washington University.
 ....under development.
