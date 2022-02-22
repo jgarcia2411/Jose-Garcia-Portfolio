@@ -60,5 +60,5 @@ Project results:
 
 This project is my final Capstone Project to complete my master's program at George Washington University.
 ....under development.
-- [Project's repository](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
+- [Project's repository](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
 
