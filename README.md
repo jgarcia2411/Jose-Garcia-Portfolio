@@ -47,7 +47,7 @@ Project highlights:
 
 ![featureimportance](/images/demandvisual.png)
 
-## [Zomato Database]((https://github.com/jgarcia2411/Zomato_SQL_Database.git)
+## [Zomato Database](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
 The goal of this class project is to restructure a flattened dataset, and load into a SQL database, demonstrate the convenience to have this dataset stored in a database, and provide an efficient and easier way for end-users to search for specific information. Zomato is a project launched in Delhi 12 years ago, and is present in 10000+ cities globally. Zomato is one of the 'largest food aggregators in the world' and their mission is to connect people to food. 
 
 Project results:
