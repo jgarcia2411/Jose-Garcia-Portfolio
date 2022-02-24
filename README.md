@@ -18,8 +18,8 @@ Project Highlights
 -	Long-short-term memory neural networks implementation
 - Model optimization with genetic algorithms
 -	Metrics coming soon......re-training model.
--	[Project's repository](https://github.com/jgarcia2411/Energy-Supply-Smart-Home.git)
--	[Project's Medium post](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
+-	[View Project's repository](https://github.com/jgarcia2411/Energy-Supply-Smart-Home.git)
+-	[View Project's Medium post](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 
 ![powervstime](/images/demandusage.png)
 
@@ -30,8 +30,8 @@ Project highlights:
 -	Natural Language Processing implementation to clean recipes data
 -	Random Forst best prediction metric: RMSE = 196
 -	Support Vector Classifier best classification metrics: ACCURACY = 0.79 
--	[Project's repository](https://github.com/jgarcia2411/emse-6574-final-project.git)
--	[Jupyter Notebook](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
+-	[View Project's repository](https://github.com/jgarcia2411/emse-6574-final-project.git)
+-	[View Jupyter Notebook](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
 
 [![streamlitapp](/images/streamlitapp.png)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 
@@ -42,7 +42,7 @@ Project highlights:
 -	Machine learning implementation in Spark
 -	Model deployment with MLflow and Streamlit (coming soon....)
 -	Decision Tree best prediction metrics: RMSE = 3412, R-squared = 0.92
--	[Jupyter Notebook](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
+-	[View Jupyter Notebook](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
 
 ![featureimportance](/images/demandvisual.png)
 
@@ -50,7 +50,7 @@ Project highlights:
 The goal of this class project is to restructure a flattened dataset, and load into a SQL database, demonstrate the convenience to have this dataset stored in a database, and provide an efficient and easier way for end-users to search for specific information. Zomato is a project launched in Delhi 12 years ago, and is present in 10000+ cities globally. Zomato is one of the 'largest food aggregators in the world' and their mission is to connect people to food. 
 
 Project results:
-- [Project's repository](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
+- [View Project's repository](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
 
 ![zomato](/images/zomato.png)
 
@@ -59,5 +59,5 @@ Project results:
 
 This project is my final Capstone Project to complete my master's program at George Washington University.
 ....under development.
-- [Project's repository](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
+- [View Project's repository](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
 
