@@ -1,4 +1,4 @@
-Welcome to my schoool projects Portfolio!
+Welcome to my school projects Portfolio!
 
 I have showcased my work gaining hands-on experience in Analytics, Machine Learning and Data Science in this Portfolio of Projects. I am in my last semester of the master's program in Data Analytics at George Washington Universtiy. These last couple years I have been mastering my skills in Analytics, Deep Learning, Machine Learning, Programming for Analytics, and Database Management. 
 
