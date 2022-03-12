@@ -32,7 +32,6 @@ Project highlights:
 -	[View Project's repository](https://github.com/jgarcia2411/emse-6574-final-project.git)
 -	[View Jupyter Notebook](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
 
-[![streamlitapp](/images/streamlitapp.png)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 
 ## [Predicting Solar Energy production from weather parameters](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
 ![featureimportance](/images/Solar-1.jpg)
