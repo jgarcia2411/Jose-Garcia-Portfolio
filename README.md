@@ -1,15 +1,12 @@
-Welcome to my school projects Portfolio!
+Welcome to my Portfolio!
 
 I have showcased my work gaining hands-on experience in Analytics, Machine Learning and Data Science in this Portfolio of Projects. I am in my last semester of the master's program in Data Analytics at George Washington Universtiy. These last couple years I have been mastering my skills in Analytics, Deep Learning, Machine Learning, Programming for Analytics, and Database Management. 
 
 ### About me: 
-- I am originally from Ecuador and came to the US to work towards a career in Data Science/Analytics/Machine Learning. I found a true call for data science while working in the oil industry, and decided to pursue it. Learn more about me in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406).
+- I am finishing my Master of Science program in Data Analytics at George Washington University. I found a true call for Data Science, Analytics and Machine Learning two years ago when I was working as a Reservoir Engineer in the oil industry. I am a sport enthusiast and practice running, biking, climbing, and hiking. I love music, food and traveling! You can learn more about my journey in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406).
 - All my projects can be found in my [Github repository](https://github.com/jgarcia2411)
 
 ----
-
-
-
 ## [Forecasting Energy Demand in a residential building with LSTM neural networks and Genetic Algorithms](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 
 Forecasting electricity demand and consumption is critical for energy companies. It provides accurate tools for resource management, investment portfolio, power consumption and usage planning, scheduling, and network distribution analysis. Modern buildings are also benefitted from consumption forecasts, and more buildings are adopting new technologies to generate usage data. Thus, it is evident that accurate models are growing in demand over multiple modern residences. This class project focused on analyzing data from a residential building and developing machine learning models to forecast energy demand using historical consumption data, and weather recordings. 
