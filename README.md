@@ -46,7 +46,7 @@ Project results:
 
 
 ## [Sign Language Translation](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
-
+![pose](/images/pose-estimation.png)
 This project is my final Capstone Project to complete my master's program at George Washington University.
 ....under development.
 - [View Project's repository](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
