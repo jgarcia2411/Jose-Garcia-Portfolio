@@ -1,4 +1,4 @@
-### About me: 
+# Portfolio 
 - I am completing my Master of Science program in Data Analytics at George Washington University. I found a true call for Data Science, Analytics and Machine Learning two years ago when I was working as a Reservoir Engineer in the oil industry. I am a sport enthusiast and practice running, biking, climbing, and hiking. I love music, food and traveling! You can learn more about my journey in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406).
 - All my projects can be found in my [Github repository](https://github.com/jgarcia2411)
 
