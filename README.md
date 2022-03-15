@@ -15,7 +15,7 @@ Project Highlights
 -	[View Project's repository](https://github.com/jgarcia2411/Energy-Supply-Smart-Home.git)
 -	[View Project's Medium post](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 
-## [Predicting Solar Energy production from weather parameters](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
+## Predicting Solar Energy production from weather parameters
 ![featureimportance](/images/Solar-1.jpg)
 Solar energy is a renewable source promised to be a crucial part of the future energy grid. Since it is dependent on weather, companies are interested to understand the impact on energy production under different weather scenarios. Additionally, solar energy can’t be cost-efficiently stored, hence forecasting its capacity is increasingly valuable to electric power system operators. Therefore, this class project was developed to understand which weather parameters influence energy production in a solar farm, and how much energy is expected to produce given current weather. In this project, I merged and analyzed solar farm energy production and weather data. I trained machine learning models and predicted power supply given weather data. 
 
@@ -23,7 +23,7 @@ Project highlights:
 -	Machine learning implementation in Spark
 -	Model deployment with MLflow and Streamlit (coming soon....)
 -	Decision Tree best prediction metrics: RMSE = 3412, R-squared = 0.92
--	[View Jupyter Notebook](/documents/SOLAR_FINAL.ipynb)
+-	[View Jupyter Notebook](/documents/SOLAR_FINAL.html)
 
 ## [Predicting Cuisine type and calories from a given recipe](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
 [![streamlitapp](/images/ingredients1.jpg)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
