@@ -23,7 +23,7 @@ Project highlights:
 -	Machine learning implementation in Spark
 -	Model deployment with MLflow and Streamlit (coming soon....)
 -	Decision Tree best prediction metrics: RMSE = 3412, R-squared = 0.92
--	[View Jupyter Notebook](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
+-	[View Jupyter Notebook](/documents/SOLAR_FINAL.html)
 
 ## [Predicting Cuisine type and calories from a given recipe](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
 [![streamlitapp](/images/ingredients1.jpg)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
