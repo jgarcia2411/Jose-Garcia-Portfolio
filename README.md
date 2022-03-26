@@ -1,9 +1,11 @@
-# Portfolio 
-- I am completing my Master of Science program in Data Analytics at George Washington University. I found a true call for Data Science, Analytics and Machine Learning two years ago when I was working as a Reservoir Engineer in the oil industry. I am a sport enthusiast and practice running, biking, climbing, and hiking. I love music, food and traveling! You can learn more about my journey in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406).
+# Data Science Portfolio 
+- Two years ago while working as a Reservoir Engineer in the oil industry, I found a true call for Analytics, Data Science and Machine Learning. Then, I decided to go back to school and start the Master of Science in Data Analytics program at George Washington University.
+- Through my coursework, I have developed skills in data processing, data visualization, machine learning and computer vision. In this portfolio of school projects I have showcased the projects I enjoyed to most. 
+- Outside school and work, I am a sport enthusiast who practice running, biking, climbing, and hiking. I love music, food and traveling! You can learn more about my journey in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406).
 - All my projects can be found in my [Github repository](https://github.com/jgarcia2411)
 
 ----
-## [Forecasting Energy Demand in a residential building with LSTM neural networks and Genetic Algorithms](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
+## [Optimizing LSTM network's hyperparamters with Genetic Algorithms to forecast energy demand in a residential building](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 ![powervstime](/images/BIM-adds-value-to-intelligent-buildings-says-report-©-Stepanenko-Oksana-.jpg)
 *Source: BIMTODAY*
 
@@ -16,7 +18,16 @@ Project Highlights
 -	[View Project's repository](https://github.com/jgarcia2411/Energy-Supply-Smart-Home.git)
 -	[View Project's Medium post](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 
-## Predicting Solar Energy production from weather parameters
+## [Translating American Sign Language videos to Enlgish using different network architetctures](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
+![pose](/images/pose-estimation.png)
+*Source: How2Sign*
+
+This ongoing project is my final Capstone Project to complete my master's program at George Washington University. The goal of this project is to implement different neural networks architectures to translate American Sign Language videos to English. Currently, after an extensive literature review in the sign language processing research area, we are implementing Encoder-Decoder with Attention architecture.
+
+- [View Project's repository](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
+
+
+## Applying Machine Learning to predict Solar Energy production capacity in a power plant
 ![featureimportance](/images/Solar-1.jpg)
 *Source: Just Energy*
 
@@ -42,7 +53,7 @@ Project highlights:
 -	[View Jupyter Notebook](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
 
 
-## [Zomato Database](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
+## [Creating a SQL Database](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
 ![zomato](/images/zomato.png)
 The goal of this class project is to restructure a flattened dataset, and load into a SQL database, demonstrate the convenience to have this dataset stored in a database, and provide an efficient and easier way for end-users to search for specific information. Zomato is a project launched in Delhi 12 years ago, and is present in 10000+ cities globally. Zomato is one of the 'largest food aggregators in the world' and their mission is to connect people to food. 
 
@@ -50,11 +61,5 @@ Project results:
 - [View Project's repository](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
 
 
-## [Sign Language Translation](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
-![pose](/images/pose-estimation.png)
-*Source: How2Sign*
 
-This project is my final Capstone Project to complete my master's program at George Washington University.
-....under development.
-- [View Project's repository](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
 
