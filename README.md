@@ -5,7 +5,7 @@
 - All my projects can be found in my [Github repository](https://github.com/jgarcia2411)
 
 ----
-## [Optimizing LSTM network's hyperparamters with Genetic Algorithms to forecast energy demand in a residential building](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
+## [Optimizing LSTM network's hyperparameters with Genetic Algorithms to forecast Energy demand in a residential building](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 ![powervstime](/images/BIM-adds-value-to-intelligent-buildings-says-report-©-Stepanenko-Oksana-.jpg)
 *Source: BIMTODAY*
 
@@ -14,15 +14,14 @@ Forecasting electricity demand and consumption is critical for energy companies.
 Project Highlights
 -	Long-short-term memory neural networks implementation
 - Model optimization with genetic algorithms
--	Metrics coming soon......re-training model.
 -	[View Project's repository](https://github.com/jgarcia2411/Energy-Supply-Smart-Home.git)
 -	[View Project's Medium post](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 
-## [Translating American Sign Language videos to Enlgish using different network architetctures](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
+## [Translating American Sign Language videos to Enlgish using different network architectures](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
 ![pose](/images/pose-estimation.png)
 *Source: How2Sign*
 
-This ongoing project is my final Capstone Project to complete my master's program at George Washington University. The goal of this project is to implement different neural networks architectures to translate American Sign Language videos to English. Currently, after an extensive literature review in the sign language processing research area, we are implementing Encoder-Decoder with Attention architecture.
+This ongoing project is my final Capstone Project to complete the MS Data Analytics program at George Washington University. The goal of this project is to implement different neural networks architectures to translate American Sign Language videos to English. Currently, after an extensive literature review in the sign language processing research area, we are implementing Encoder-Decoder with Attention architecture.
 
 - [View Project's repository](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
 
@@ -35,11 +34,10 @@ Solar energy is a renewable source promised to be a crucial part of the future e
 
 Project highlights:
 -	Machine learning implementation in Spark
--	Model deployment with MLflow and Streamlit (coming soon....)
 -	Decision Tree best prediction metrics: RMSE = 3412, R-squared = 0.92
 -	[View Jupyter Notebook](/documents/SOLAR_FINAL.html)
 
-## [Predicting Cuisine type and calories from a given recipe](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
+## [Predicting Cuisine type and calories from a given recipe with Machine Learning](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
 [![streamlitapp](/images/ingredients1.jpg)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 *Source: Twitter, @SLCL*
 
