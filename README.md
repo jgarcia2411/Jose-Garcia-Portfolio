@@ -9,6 +9,7 @@ Here you will find projects that implement machine learning in the areas of ener
 *Source: BIMTODAY*
 
 *In collaboration with Hrafnhildur Arna Nielson and Kamran Arshad*
+
 Forecasting electricity demand and consumption is critical for energy companies. It provides accurate tools for resource management, investment portfolio, power consumption and usage planning, scheduling, and network distribution analysis. Modern buildings are also benefitted from consumption forecasts, and more buildings are adopting new technologies to generate usage data. Thus, it is evident that accurate models are growing in demand over multiple modern residences. This class project focused on analyzing data from a residential building and developing machine learning models to forecast energy demand using historical consumption data, and weather recordings. 
 
 Project Highlights
@@ -23,6 +24,7 @@ Project Highlights
 *Source: How2Sign*
 
 *In collaboration with Chi-Yun and Quing Zhu*
+
 This ongoing project is my final Capstone Project to complete the MS Data Analytics program at George Washington University. The goal of this project is to implement different neural networks architectures to translate American Sign Language videos to English. Currently, this projects implements Encoder-Decoder model architecture. 
 
 - [View Project's repository](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
@@ -44,6 +46,7 @@ Project highlights:
 *Source: Twitter, @SLCL*
 
 *In collaboration with Michael Salceda, Kahang Ngau, kamran Arshad and Wisdom Ebirim*
+
 More people is getting interested in tracking the number of calories on their food, and creating awareness to what we eat each day. Counting calories can help people to identify eating patterns that might affect our health. Thus, this tool was created to predict the number of calories and classify the cuisine type from a given recipe. In this group project, we used around 40k recipes to train machine learning models. Finally, the models are deployed in an interactive app hosted in [**Streamlit**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
 
 Project highlights:
@@ -58,6 +61,7 @@ Project highlights:
 ![zomato](/images/zomato.png)
 
 *In collaboration with Kahang Ngau*
+
 The goal of this class project is to restructure a flattened dataset, and load into a SQL database, demonstrate the convenience to have this dataset stored in a database, and provide an efficient and easier way for end-users to search for specific information. Zomato is a project launched in Delhi 12 years ago, and is present in 10000+ cities globally. Zomato is one of the 'largest food aggregators in the world' and their mission is to connect people to food. 
 
 Project results:
