@@ -17,7 +17,7 @@ Outside of work, I practice climbing, hiking and running. These activities give 
 ![powervstime](/images/BIM-adds-value-to-intelligent-buildings-says-report-©-Stepanenko-Oksana-.jpg)
 *Source: BIMTODAY*
 
-*In collaboration with Hrafnhildur Arna Nielson and Kamran Arshad*
+*In collaboration with Hrafnhildur Arna Nielsen and Kamran Arshad*
 
 Forecasts of electric demand is critical for energy companies. It provides accurate tools for resource management, investment portfolio, and power  consumption planning. The accuracy of electric demand forecast models increases with the amount of data avialable, thus, more buildings are adopting new technology to collect electric use data. This class project analyzes electric use in a residential building and forecast electric demand using data collected over a year in a minute interval resolution.
 
