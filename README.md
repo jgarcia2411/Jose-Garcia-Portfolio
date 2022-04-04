@@ -1,6 +1,6 @@
 ## Welcome to my Data Science Portfolio 
-This is a colection of some my favorite projects I have been working during my master's program in Data Analytics at George Washington University. 
-Here you will find projects related to implementing machine learning in the areas of energy forecast, computer vision, neural machine translation, and natural language processing. I am a sport enthusiast who practice running, biking, climbing, and hiking. I love music, food and traveling! You can learn more about my journey in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406). All my projects can be found in my [Github repository](https://github.com/jgarcia2411)
+This is a colection of my favorite projects I have worked on during my master's program in Data Analytics at George Washington University. 
+Here you will find projects that implement machine learning in the areas of energy forecast, computer vision, neural machine translation, and natural language processing. All my projects can be found in my [Github repository](https://github.com/jgarcia2411)
 ----
 # Portfolio
 
