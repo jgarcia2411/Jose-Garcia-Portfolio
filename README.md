@@ -80,20 +80,29 @@ Project results:
 # Work Experience
 
 Sep 2021 - Present
+
 **Energy Analyst Assistant**
+
 George Washington University
 
 Jun 2021- Aug 2021
+
 **Artificial Intelligence Intern**
+
 AI for Good Foundation
 
 Apr 2021- May 2021
+
 **Research Assistant**
+
 George Washington University
 
 Aug 2017- Jun 2019
+
 **Reservoir Engineer**
+
 **Production Production Facility Operator**
+
 Petroamazonas EP
 
 
