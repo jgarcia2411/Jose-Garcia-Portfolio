@@ -2,7 +2,7 @@
 This is a colection of some my favorite projects I have been working during my master's program in Data Analytics at George Washington University. 
 Here you will find projects related to implementing machine learning in the areas of energy forecast, computer vision, neural machine translation, and natural language processing. I am a sport enthusiast who practice running, biking, climbing, and hiking. I love music, food and traveling! You can learn more about my journey in this [medium post](https://medium.com/@garciaguerra.jl/my-journey-from-petroleum-engineering-to-data-science-a7f05919d406). All my projects can be found in my [Github repository](https://github.com/jgarcia2411)
 ----
-#Portfolio
+# Portfolio
 
 ## [Optimizing LSTM network's hyperparameters with Genetic Algorithms to forecast Energy demand in a residential building](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 ![powervstime](/images/BIM-adds-value-to-intelligent-buildings-says-report-©-Stepanenko-Oksana-.jpg)
