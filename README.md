@@ -76,6 +76,7 @@ The goal of this class project is to restructure a flattened dataset, and load i
 Project results:
 - [View Project's repository](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
 
+----
 
 # Work Experience
 
@@ -105,6 +106,7 @@ Aug 2017- Jun 2019
 
 Petroamazonas EP
 
+----
 
 # Education
 
@@ -116,6 +118,7 @@ Master of Science in Data Analytics, School of Engineering and Applied Science
 #### **Escuela Politecnica Nacional**
 Bachelor of Science in Petroleum Engineering
 
+----
 
 # Contact
 Email
