@@ -1,9 +1,9 @@
 ## Welcome to my Data Science Portfolio 
-This is a colection of my favorite projects I have worked on during my master's program in Data Analytics at George Washington University. 
-Here you will find projects that implement machine learning in the areas of energy forecast, computer vision, neural machine translation, and natural language processing. All my projects can be found in my [Github repository](https://github.com/jgarcia2411)
+This is a collection of my favorite projects I have worked on during my master's program in Data Analytics at George Washington University. 
+Here you will find data analysis and machine learning projects in the areas of time series forecast, computer vision, neural machine translation, and natural language processing. All my projects can be found in my [GitHub repository](https://github.com/jgarcia2411)
 
 ## Who am I?
-I am a **Data Analyst and Machine Learning Enthusiast.** I strongly believe data is the most valuable asset and can unlock challenges across industries. My passion to learn new skills and my curiousity motivated me to pursue a master's in Data Analytics, and explore different applications of Data Science across different challenges. 
+I am a **Data Analyst and Machine Learning Enthusiast.** I strongly believe data is one of the most valuable asset that can unlock challenges across industries. My passion to learn new skills and my curiousity motivated me to pursue a master's in Data Analytics, and to explore different applications of Data Science and Machine Learning across different challenges. 
 
 Outside of work, I practice climbing, hiking and running. These activities give me the mentality to always go outside my confort zone and challenge myself.
 
@@ -19,7 +19,7 @@ Outside of work, I practice climbing, hiking and running. These activities give 
 
 *In collaboration with Hrafnhildur Arna Nielson and Kamran Arshad*
 
-Forecasting electricity demand and consumption is critical for energy companies. It provides accurate tools for resource management, investment portfolio, power consumption and usage planning, scheduling, and network distribution analysis. Modern buildings are also benefitted from consumption forecasts, and more buildings are adopting new technologies to generate usage data. Thus, it is evident that accurate models are growing in demand over multiple modern residences. This class project focused on analyzing data from a residential building and developing machine learning models to forecast energy demand using historical consumption data, and weather recordings. 
+Forecasts of electric demand is critical for energy companies. It provides accurate tools for resource management, investment portfolio, and power  consumption planning. The accuracy of electric demand forecast models increases with the amount of data avialable, thus, more buildings are adopting new technology to collect electric use data. This class project analyzes electric use in a residential building and forecast electric demand using data collected over a year in a minute interval resolution.
 
 Project Highlights
 -	Forecast power demand of the next day given the previous seven days of power consumption. 
