@@ -1,6 +1,15 @@
 ## Welcome to my Data Science Portfolio 
 This is a colection of my favorite projects I have worked on during my master's program in Data Analytics at George Washington University. 
 Here you will find projects that implement machine learning in the areas of energy forecast, computer vision, neural machine translation, and natural language processing. All my projects can be found in my [Github repository](https://github.com/jgarcia2411)
+
+## Who am I?
+I am a **Data Analyst and Machine Learning Enthusiast.** I strongly believe data is the most valuable asset and can unlock challenges across industries. My passion to learn new skills and my curiousity motivated me to pursue a master's in Data Analytics, and explore different applications of Data Science across different challenges. 
+
+Outside of work, I practice climbing, hiking and running. These activities has provide me the mentality to always go outside my confort zone and challenge myself.
+
+[Find me on LinkedIn](https://www.linkedin.com/in/jlgarciajose/)
+
+
 ----
 # Portfolio
 
