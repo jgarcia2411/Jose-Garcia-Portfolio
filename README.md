@@ -80,48 +80,52 @@ Project results:
 
 # Work Experience
 
-- Sep 2021 - Present
 
-**Energy Analyst Assistant**
+- **Energy Analyst Assistant**
 
-George Washington University
+  September 2021 - May 2022
 
-- Jun 2021- Aug 2021
+  George Washington University
 
-**Artificial Intelligence Intern**
 
-AI for Good Foundation
+- **Artificial Intelligence Intern**
+  
+  Jun 2021- Aug 2021
+  
+  AI for Good Foundation
 
-- Apr 2021- May 2021
 
-**Research Assistant**
+- **Research Assistant** 
+  
+  Apr 2021- May 2021
 
-George Washington University
+  George Washington University
 
-- Aug 2017- Jun 2019
 
-  - **Reservoir Engineer**
-  - **Production Facility Operator**
-
-Petroamazonas EP
+- **Reservoir Engineer**
+- **Production Facility Operator**
+  Aug 2017- Jun 2019
+  Petroamazonas EP
 
 ----
 
 # Education
 
-2020 - 2022
-### **George Washington University**
-Master of Science in Data Analytics, School of Engineering and Applied Science
 
-2011 - 2017
-### **Escuela Politecnica Nacional**
-Bachelor of Science in Petroleum Engineering
+- ### **George Washington University**
+  2020 - 2022
+  Master of Science in Data Analytics, School of Engineering and Applied Science
+
+- ### **Escuela Politecnica Nacional**
+  2011 - 2017
+  Bachelor of Science in Petroleum Engineering
 
 ----
 
 # Contact
-Email
-**garciaguerra.jl@gmail.com**
+
+- **garciaguerra.jl@gmail.com**
+
 
 
 
