@@ -1,13 +1,14 @@
 title: Jose Garcia
 logo: /images/fotoperfil.jpg
-description: Data Analyst, Machine Learning enthusiast and Petroleum Engineer
-             
+description: >
+             Data Analyst, Machine Learning Enthusiast and Petroleum Engineer
+             <br><br>
              <a><strong>Contact</strong></a>
-             
-             jgarciag@gwmail.gwu.edu
-             
-             <a href="https://www.linkedin.com/in/jlgarciajose/">LinkedIn</a>
-             
-             <a href="https://github.com/jgarcia2411">GitHub</a>
+             <br><br>
+             garciaguerra.jl@gmail.com
+             <br><br>
+             <a href="https://www.linkedin.com/in/jlgarciajose/">Find me on LinkedIn</a>
+             <br><br>
+             <a href="https://github.com/jgarcia2411">Navigate to my GitHub</a>
              
 theme: jekyll-theme-minimal
