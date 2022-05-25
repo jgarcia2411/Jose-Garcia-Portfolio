@@ -114,10 +114,12 @@ Project results:
 
 - ### **George Washington University**
   2020 - 2022
+  
   Master of Science in Data Analytics, School of Engineering and Applied Science
 
 - ### **Escuela Politecnica Nacional**
   2011 - 2017
+  
   Bachelor of Science in Petroleum Engineering
 
 ----
