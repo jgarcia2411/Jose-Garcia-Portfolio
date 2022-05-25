@@ -5,10 +5,10 @@ description: >
              <br><br>
              <a><strong>Contact</strong></a>
              <br><br>
-             garciaguerra.jl@gmail.com
+             - garciaguerra.jl@gmail.com
              <br><br>
-             <a href="https://www.linkedin.com/in/jlgarciajose/">Find me on LinkedIn</a>
+             - <a href="https://www.linkedin.com/in/jlgarciajose/">Find me on LinkedIn</a>
              <br><br>
-             <a href="https://github.com/jgarcia2411">Navigate to my GitHub</a>
+             - <a href="https://github.com/jgarcia2411">Navigate to my GitHub</a>
              
 theme: jekyll-theme-minimal
