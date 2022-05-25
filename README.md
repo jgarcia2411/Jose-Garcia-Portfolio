@@ -80,22 +80,29 @@ Project results:
 
 # Work Experience
 
-Sep 2021 - Present
+- September 2021 - May 2022
+
 **Energy Analyst Assistant**
+
 George Washington University
 
-Jun 2021- Aug 2021
+- Jun 2021- Aug 2021
+
 **Artificial Intelligence Intern**
+
 AI for Good Foundation
 
-Apr 2021- May 2021
+- Apr 2021- May 2021
+
 **Research Assistant**
+
 George Washington University
 
-Aug 2017- Jun 2019
-**Reservoir Engineer**
+- Aug 2017- Jun 2019
+  - **Reservoir Engineer**
 
-**Production Production Facility Operator**
+  - **Production Facility Operator**
+
 Petroamazonas EP
 
 ----
@@ -114,7 +121,7 @@ Bachelor of Science in Petroleum Engineering
 
 # Contact
 Email
-**jgarciag@gwu.edu**
+**garciaguerra.jl@gmail.com**
 
 
 
