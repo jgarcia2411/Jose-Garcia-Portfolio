@@ -5,7 +5,7 @@ Here you will find a collection of projects I worked on while pursuing my Master
 
 
 ## About me
-I am a **Data Analyst and Machine Learning Enthusiast.** I strongly believe data is one of the most valuable asset that can unlock challenges across industries and help businesses make better decisions. After working as a Petroleum Engineer for 2 years in my home country Ecuador, I decided to follow my curiosity and passion to learn new skills and moved to the United States to pursue the Master of Science in Data Analytics program at George Washington University. Outside of work, I practice climbing, hiking and running. These activities give me the mentality to always go outside my confort zone and challenge myself.
+I am a **Data Analyst and Machine Learning Enthusiast.** I strongly believe data is one of the most valuable asset to unlock challenges across industries and help businesses make better decisions. After working as a Petroleum Engineer for 2 years in my home country Ecuador, I decided to follow my curiosity and passion to learn new skills and moved to the United States to pursue the Master of Science in Data Analytics program at George Washington University. Outside of work, I practice climbing, hiking and running. These activities give me the mentality to always go outside my confort zone and challenge myself.
 
 [More about mt working experience on my LinkedIn profile](https://www.linkedin.com/in/jlgarciajose/)
 
