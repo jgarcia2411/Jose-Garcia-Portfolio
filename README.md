@@ -43,7 +43,7 @@ Power demand forecast provides accurate tools for resource management, investmen
 
 ### Applying Machine Learning to predict Solar Energy production capacity in a power plant
 ![featureimportance](/images/pv.jpg)
-*Source: [Ryan Searle](https://unsplash.com/@ryansearle)on [Unsplash](https://unsplash.com/s/photos/building-energy)*
+*Source: [Ryan Searle](https://unsplash.com/@ryansearle) on [Unsplash](https://unsplash.com/s/photos/building-energy)*
 
 Over the last years, the growing interest in renewable energy has pushed energy companies to increase renewable energy assets around the globe. Contrary to traditional energy resources such as oil & gas and coal, solar energy generation is affected by meteorological conditions. Thus, companies look to develop a better understanding on those meteorological conditions that impact photovoltaic panels. This class project looks to understand which of the different meteorological condition influence on solar power generation by analyzing data collected from a [photovoltaic plant]() in California and the [National Solar Radiation Database](https://nsrdb.nrel.gov/).
 
