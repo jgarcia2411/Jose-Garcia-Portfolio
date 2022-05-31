@@ -13,6 +13,17 @@ Outside of work, I practice climbing, hiking and running. These activities give 
 ----
 # Portfolio
 
+## [Translating American Sign Language videos to Enlgish using different network architectures](https://cyc-tw.medium.com/american-sign-language-translation-approach-using-machine-learning-3ae34c112d23)
+![pose](/images/pose-estimation.png)
+*Source: How2Sign*
+
+*In collaboration with Chi-Yun and Quing Zhu*
+
+This ongoing project is my final Capstone Project to complete the MS Data Analytics program at George Washington University. The goal of this project is to implement different neural networks architectures to translate American Sign Language videos to English. Currently, this projects implements Encoder-Decoder model architecture. 
+
+- [View Project's repository](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
+- [View Project's blog](https://cyc-tw.medium.com/american-sign-language-translation-approach-using-machine-learning-3ae34c112d23)
+
 ## [Optimizing LSTM network's hyperparameters with Genetic Algorithms to forecast Energy demand in a residential building](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 ![powervstime](/images/BIM-adds-value-to-intelligent-buildings-says-report-©-Stepanenko-Oksana-.jpg)
 *Source: BIMTODAY*
@@ -27,16 +38,6 @@ Project Highlights
 - Model hyper-parameters optimized with genetic algorithms
 -	[View Project's repository](https://github.com/jgarcia2411/Energy-Supply-Smart-Home.git)
 -	[View Project's Medium post](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
-
-## [Translating American Sign Language videos to Enlgish using different network architectures](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
-![pose](/images/pose-estimation.png)
-*Source: How2Sign*
-
-*In collaboration with Chi-Yun and Quing Zhu*
-
-This ongoing project is my final Capstone Project to complete the MS Data Analytics program at George Washington University. The goal of this project is to implement different neural networks architectures to translate American Sign Language videos to English. Currently, this projects implements Encoder-Decoder model architecture. 
-
-- [View Project's repository](https://github.com/jgarcia2411/Sign-Language-Capstone.git)
 
 
 ## Applying Machine Learning to predict Solar Energy production capacity in a power plant
