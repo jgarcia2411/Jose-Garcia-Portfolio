@@ -52,7 +52,7 @@ Over the last years, the growing interest in renewable energy has pushed energy 
 
 ### [Predicting Cuisine type and calories from a given recipe with Machine Learning](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
 [![streamlitapp](/images/ingredients1.jpg)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
-*Source: Twitter, @SLCL*
+*Source: [Sebastian Coman](https://unsplash.com/@sebastiancoman)on [Unsplash](https://unsplash.com/s/photos/cuisine)*
 
 *In collaboration with Michael Salceda, Kahang Ngau, kamran Arshad and Wisdom Ebirim*
 
