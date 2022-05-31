@@ -27,8 +27,8 @@ In this Capstone project, we implemented Convolution 3D and Encoder-Decoder neur
 - [View Project's blog](https://cyc-tw.medium.com/american-sign-language-translation-approach-using-machine-learning-3ae34c112d23)
 
 ### [Optimizing LSTM network's hyperparameters with Genetic Algorithms to forecast Energy demand in a residential building](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
-![powervstime](/images/BIM-adds-value-to-intelligent-buildings-says-report-©-Stepanenko-Oksana-.jpg)
-*Source: BIMTODAY*
+![powervstime](/images/powerdemand.jpg)
+*Source: [Joshua Sortino](https://unsplash.com/@sortino) on [Unsplash](https://unsplash.com/s/photos/iot)*
 
 *In collaboration with Hrafnhildur Arna Nielsen and Kamran Arshad*
 
@@ -42,8 +42,8 @@ Power demand forecast provides accurate tools for resource management, investmen
 
 
 ### Applying Machine Learning to predict Solar Energy production capacity in a power plant
-![featureimportance](/images/Solar-1.jpg)
-*Source: Just Energy*
+![featureimportance](/images/pv.jpg)
+*Source: [Ryan Searle](https://unsplash.com/@ryansearle)on [Unsplash](https://unsplash.com/s/photos/building-energy)*
 
 Over the last years, the growing interest in renewable energy has pushed energy companies to increase renewable energy assets around the globe. Contrary to traditional energy resources such as oil & gas and coal, solar energy generation is affected by meteorological conditions. Thus, companies look to develop a better understanding on those meteorological conditions that impact photovoltaic panels. This class project looks to understand which of the different meteorological condition influence on solar power generation by analyzing data collected from a [photovoltaic plant]() in California and the [National Solar Radiation Database](https://nsrdb.nrel.gov/).
 
