@@ -1,13 +1,15 @@
 # Portfolio
 
 ## Welcome to my Data Science Portfolio 
-Here you will find a collection of projects I worked on while pursuing my Master's program in [Data Analytics](https://graduate.seas.gwu.edu/masters-data-analytics) at George Washington University. Through these projects I learned and applied concepts in Data Analysis, Machine Learning, Computer Vision, and Natural Language Processing. 
+Here you will find a collection of projects I worked on while pursuing my Master's program in [Data Analytics](https://graduate.seas.gwu.edu/masters-data-analytics) at George Washington University. Through these projects, I learned and applied concepts in Data Analysis, Machine Learning, Computer Vision, and Natural Language Processing. 
 
 
 ## About me
-I am a **Data Analyst and Machine Learning Enthusiast.** I strongly believe data is one of the most valuable asset to unlock challenges across industries and help businesses make better decisions. After working as a Petroleum Engineer for 2 years in my home country Ecuador, I decided to follow my curiosity and passion to learn new skills and moved to the United States to pursue the Master of Science in Data Analytics program at George Washington University. Outside of work, I practice climbing, hiking and running. These activities give me the mentality to always go outside my confort zone and challenge myself.
+I am a **Data Analyst and Engineer.** I strongly believe data is one of the most valuable assets to unlock challenges across industries and help businesses make better decisions. After working as a **Petroleum Engineer** for 2 years in my home country Ecuador, I moved to the United States following my passion to learn new things and pursued a **Master of Science degree in Data Analytics at George Washington University**.
 
-[More about mt working experience on my LinkedIn profile](https://www.linkedin.com/in/jlgarciajose/)
+Currently, I am volunteering on the [SDG Data Catalog Project](https://ai4good.org/what-we-do/sdg-data-catalog/) at the **AI for Good Foundation** as ML Developer. My role involves developing and evaluating multivariate classification models for name entity recognition tasks. 
+
+Outside of work, I practice climbing, hiking and running. These activities give me the mentality to always go outside my confort zone and challenge myself.
 
 ----
 ## Projects
@@ -18,7 +20,7 @@ I am a **Data Analyst and Machine Learning Enthusiast.** I strongly believe data
 
 *In collaboration with Chi-Yun and Quing Zhu*
 
-In this Capstone project, we implemented Convolution 3D and Encoder-Decoder neural network architectures to build models to detect and translate American Sign Language - ASL - from short videos. 
+In this Capstone project, we implemented **Convolution 3D** and **Encoder-Decoder** neural network architectures to build models to detect and translate American Sign Language - ASL - from short videos. 
 - Processed video data from [How2Sign](https://how2sign.github.io/) database and TikTok.
 - Built Convolution 3D model with 95% accuracy.
 - Extracted pose, hands and face features with [MediPipe Holistic](https://google.github.io/mediapipe/solutions/holistic.html)
@@ -35,19 +37,19 @@ In this Capstone project, we implemented Convolution 3D and Encoder-Decoder neur
 Power demand forecast provides accurate tools for resource management, investment portfolio, and electric consumption planning across residential and industrial buildings. Modern buildings invest in energy tracking sensors and IoT devices to streamline building data and optimize resource consumption. Thus, the need to collect and analyze building data increases over time. In this class project we:
 
 -	Forecasted power demand for the next day given the previous seven days of power consumption. 
--	Implemented RNN-LSTM network architecture.
-- Optimized hyper-parameters by implementing genetic algorithms
+-	**Implemented RNN-LSTM** network architecture.
+- Optimized hyper-parameters by implementing **genetic algorithms**
 -	[View Project's repository](https://github.com/jgarcia2411/Energy-Supply-Smart-Home.git)
--	[View Project's Medium post](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
+-	[**View Project's Medium post**](https://medium.com/@garciaguerra.jl/forecasting-energy-demand-in-a-residential-building-with-lstm-neural-network-and-genetic-algorithms-49b0dc475c60)
 
 
-### Applying Machine Learning to predict Solar Energy production capacity in a power plant
+### [Applying Machine Learning to predict Solar Energy production capacity in a power plant](/documents/SOLAR_FINAL.html)
 ![featureimportance](/images/pv.jpg)
 *Source: [Ryan Searle](https://unsplash.com/@ryansearle) on [Unsplash](https://unsplash.com/s/photos/building-energy)*
 
 Over the last years, the growing interest in renewable energy has pushed energy companies to increase renewable energy assets around the globe. Contrary to traditional energy resources such as oil & gas and coal, solar energy generation is affected by meteorological conditions. Thus, companies look to develop a better understanding on those meteorological conditions that impact photovoltaic panels. This class project looks to understand which of the different meteorological condition influence on solar power generation by analyzing data collected from a [photovoltaic plant]() in California and the [National Solar Radiation Database](https://nsrdb.nrel.gov/).
 
--	Decision Tree best prediction metrics: RMSE = 3412, R-squared = 0.92
+-	**Random Forest Regressor** best prediction metrics: R-squared = 0.92
 -	[View Jupyter Notebook](/documents/SOLAR_FINAL.html)
 
 ### [Predicting Cuisine type and calories from a given recipe with Machine Learning](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
@@ -58,11 +60,12 @@ Over the last years, the growing interest in renewable energy has pushed energy 
 
 Tracking the number of calories in food is important to create awareness  of what we eat every day. Counting calories can help people identify eating patterns that might affect their health. Thus, in this project we built a tool to predict the number of calories and classify the cuisine type from a given recipe. We used 40k recipes to train machine learning models and deployed them in [**Streamlit**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py) 
 
--	Implemented Natural Language Processing to clean text
--	Built a cusine type classification model with an accuracy of 79% using Support Vector Classifiers
--	Trained a Random Forest Regressor model to predict the number of calories
+-	Implemented **Natural Language Processing** to clean text
+-	Built a cusine type classification model with an **accuracy of 79%** using Support Vector Classifiers
+-	Trained a **Random Forest Regressor** model to predict the number of calories
+-	Model deployment with [**Streamlit**](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 -	[View Project's repository](https://github.com/jgarcia2411/emse-6574-final-project.git)
--	[View Jupyter Notebook](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
+-	[**View Jupyter Notebook**](https://nbviewer.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb)
 
 
 ### [Creating a SQL Database](https://github.com/jgarcia2411/Zomato_SQL_Database.git)
